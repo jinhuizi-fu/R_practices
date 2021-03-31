@@ -1,5 +1,6 @@
 # classify images with Tensorflow 
 # MNIST dataset
+# https://tensorflow.rstudio.com/tutorials/beginners/basic-ml/tutorial_basic_classification/
 library(keras)
 
 # data inputs
